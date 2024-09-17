@@ -28,6 +28,6 @@
 
 ## Author
 
-- Website - [Abhishek N.M](https://blog-card-abhishek.vercel.app/)
+- Website - [Abhishek N.M](https://github.com/abhi123-rgb/product-preview-card)
 - Frontend Mentor - [@abhi123-rgb](https://www.frontendmentor.io/profile/abhi123-rgb)
 - Twitter - [@AbhishekNM90072](https://x.com/AbhishekNM90072?t=BcUfBwBF1rxCxOG3MduVDQ&s=09)
